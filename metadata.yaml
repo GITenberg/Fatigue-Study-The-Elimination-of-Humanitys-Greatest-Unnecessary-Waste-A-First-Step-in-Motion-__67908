@@ -1,0 +1,47 @@
+_repo: Fatigue-Study-The-Elimination-of-Humanitys-Greatest-Unnecessary-Waste-A-First-Step-in-Motion-__67908
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Gilbreth, Lillian Moller
+    aliases:
+    - Moller, Lillian Evelyn
+    - Gilbreth, Lillian M. (Lillian Moller)
+    - Gilbreth, L. M. (Lillian Moller)
+    - Gilbreth, Lillian Evelyn Moller
+    birthdate: 1878
+    deathdate: 1972
+    gutenberg_agent_id: '6578'
+    url: http://www.gutenberg.org/2009/agents/6578
+    wikipedia: https://en.wikipedia.org/wiki/Lillian_Moller_Gilbreth
+  - agent_name: Gilbreth, Frank B. (Frank Bunker)
+    alias: Gilbreth, Frank Bunker
+    birthdate: 1868
+    deathdate: 1924
+    gutenberg_agent_id: '54524'
+    url: http://www.gutenberg.org/2009/agents/54524
+    wikipedia: https://en.wikipedia.org/wiki/Frank_Bunker_Gilbreth
+description: ''
+gutenberg_issued: '2022-04-23'
+identifiers:
+  gutenberg: '67908'
+  lccn: '16008721'
+language: en
+pgterms:marc904: https://archive.org/details/fatiguestudyelim00gilbrich
+pgterms:marc905: 20210110083604gilbraith
+pgterms:marc906: '1916'
+pgterms:marc907: US
+production_note: deaurider and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: United States :Sturgis & Walton Company,1916.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Motion study'
+- !lcsh 'Industrial efficiency'
+- !lcsh 'Fatigue'
+- !lcc 'T'
+- GITenberg
+title: "Fatigue Study: The Elimination of Humanity’s Greatest Unnecessary Waste\r\n\
+  A First Step in Motion Study"
+url: http://www.gutenberg.org/ebooks/67908
