@@ -1,5 +1,8 @@
 _repo: Fatigue-Study-The-Elimination-of-Humanitys-Greatest-Unnecessary-Waste-A-First-Step-in-Motion-__67908
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67908-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Gilbreth, Lillian Moller
@@ -21,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/54524
     wikipedia: https://en.wikipedia.org/wiki/Frank_Bunker_Gilbreth
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67908#Fatigue-Study-The-Elimination-of-Humanitys-Greatest-Unnecessary-Waste-A-First-Step-in-Motion-_
 gutenberg_issued: '2022-04-23'
 identifiers:
   gutenberg: '67908'
